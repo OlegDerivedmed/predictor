@@ -25,7 +25,7 @@ Works in two modes:
 Clone this repo inside your project, then run the install script from your **project root**:
 
 ```bash
-git clone https://github.com/olegderivedmed/predictor
+git clone https://github.com/OlegDerivedmed/predictor
 cd your-project
 bash predictor/install.sh
 ```
